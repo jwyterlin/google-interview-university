@@ -1,8 +1,5 @@
 # Google Interview University
 
-Translations: [中文版本](https://github.com/jwasham/google-interview-university/blob/master/README-cn.md)
-              [Português](https://github.com/jwyterlin/google-interview-university/blob/master/README-ptBR.md)
-
 ## O que é isso?
 
 This is my multi-month study plan for going from web developer (self-taught, no CS degree) to Google software engineer.
